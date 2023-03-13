@@ -1,3 +1,4 @@
+// [20230313] 김영채
 function solution(arr) {
   let sum = 0;
   // arr의 모든 원소의 합을 구한 후
