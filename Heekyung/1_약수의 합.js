@@ -12,5 +12,3 @@ for (let i = 1; i <= maxN; i++) {
 }
   return answer;
 }
-
-//권희경

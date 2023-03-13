@@ -9,5 +9,3 @@ function solution(arr) {
    var answer = sumArr / arr.length ; //arr안 약수 갯수로 나눠 평균
   return answer;
 }
-
-//권희경
