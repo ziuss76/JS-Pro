@@ -1,6 +1,6 @@
 // [20230322] 김영채
 function solution(num) {
-  // num이 0인 경우 0 return
+  // num이 1인 경우 0 return
   if (num === 1) return 0;
   // 작업을 한 번 할 때마다 count++
   let count = 0;
