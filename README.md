@@ -1,4 +1,4 @@
-![태초마을](https://i.namu.wiki/i/EETqohq3NRP4PLv7LzK_76IJ9FQnsIGpU5mB5I_wXaRtLwlPfcePXtb5xB9xmSB4vmoXSkqp8HlRKsdWd9thrBkd-2_KTjXVL2chjnvkG-n4l4zbw5cbfkY3tau3t9FC9LTdCtH7LSi8Nu70yMjmdQ.png)
+![태초마을](https://user-images.githubusercontent.com/89372201/229768050-68f3ebf7-d8de-4893-be99-dc9bcb93278e.png)
 ## 스터디 4주차 문제
 
 ```
