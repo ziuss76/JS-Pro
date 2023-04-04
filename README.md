@@ -1,4 +1,6 @@
-![태초마을](https://user-images.githubusercontent.com/89372201/229768050-68f3ebf7-d8de-4893-be99-dc9bcb93278e.png)
+<img src="https://user-images.githubusercontent.com/89372201/229768050-68f3ebf7-d8de-4893-be99-dc9bcb93278e.png" width = "420">
+
+
 ## 스터디 4주차 문제
 
 ```
