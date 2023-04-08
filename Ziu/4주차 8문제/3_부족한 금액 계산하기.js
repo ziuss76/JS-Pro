@@ -3,7 +3,7 @@ function solution(price, money, count) {
     for (let i = 1; i <= count; i++){
         priceN += price * i
     }
-    return money >= priceN ? 0 : Math.abs(priceN - money)
+    return money >= priceN ? 0 : priceN - money
 }
 // priceN : 최종 금액
 // count 번 타야하는데 탈 때마다 1, 2, 3, 4 배 받음
